@@ -1,7 +1,7 @@
-const config = {};
+const config = {20873};
 
-config.username = '';
-config.password = '';
+config.username = 'lalasham0';
+config.password = 'Bullwinkle1';
 config.leagueEspnId = 0;
 
 config.output = '2018_transactions';
